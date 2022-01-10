@@ -1,0 +1,1742 @@
+!SESSION 2022-01-06 17:50:39.912 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_cs" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_da" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_el" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_en" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_es" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_fi" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_fr" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_hu" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_it" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ja" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ko" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_nl" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_pl" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_pt" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ro" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ru" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.957
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_sk" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_sl" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_sv" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_tr" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_zh" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_cs" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_da" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_el" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_en" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_es" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_fi" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_fr" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_hu" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_it" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ja" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ko" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_nl" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_pl" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_pt" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ro" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ru" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_sk" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_sl" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_sv" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_tr" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_zh" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_cs" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.973
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_da" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_el" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_en" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_es" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_fi" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_fr" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_hu" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_it" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ja" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ko" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_nl" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_pl" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_pt" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ro" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ru" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_sk" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_sl" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_sv" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_tr" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:52.990
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_zh" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_cs" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_da" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_el" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_en" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_es" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_fi" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_fr" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_hu" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_it" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ja" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ko" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_nl" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_pl" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_pt" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ro" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ru" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.004
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_sk" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_sl" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_sv" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_tr" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_zh" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_cs" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_da" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_el" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_en" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_es" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_fi" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_fr" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_hu" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_it" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ja" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.020
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ko" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_nl" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_pl" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_pt" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ro" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ru" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_sk" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_sl" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_sv" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_tr" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.036
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_zh" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.082
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_cs" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.082
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_da" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.082
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_el" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_en" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_es" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_fi" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_fr" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_hu" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_it" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ja" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ko" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_nl" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_pl" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_pt" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ro" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ru" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_sk" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_sl" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_sv" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_tr" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.100
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_zh" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_cs" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_da" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_el" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_en" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_es" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_fi" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_fr" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_hu" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_it" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ja" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ko" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_nl" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_pl" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_pt" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ro" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ru" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_sk" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_sl" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_sv" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_tr" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-06 17:50:53.114
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_zh" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:00.989
+!MESSAGE NLS unused message: DeleteTemplateHandler_ConfirmationTitleRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:01.037
+!MESSAGE NLS unused message: DeleteHandler_DeleteFrameWithChildsDialogMessageRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:01.068
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionTitle in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:01.085
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionMessage in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:01.148
+!MESSAGE NLS unused message: Rapi2CreateFrameHandler_OnlyOneFrameAllowed in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:01.176
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi1 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:01.207
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-06 17:51:01.238
+!MESSAGE NLS unused message: MassPropertySection_validationError_outOfRange in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.ui.workbench 4 0 2022-01-07 00:24:07.067
+!MESSAGE Widget disposed too early for part org.eclipse.ui.internal.introview
+!STACK 0
+java.lang.RuntimeException: Widget disposed too early for part org.eclipse.ui.internal.introview
+	at org.eclipse.ui.internal.WorkbenchPartReference$1.widgetDisposed(WorkbenchPartReference.java:171)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:808)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:167)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:773)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1290)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:446)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3804)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3285)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4985)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:334)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:170)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4339)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3298)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4972)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1386)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2022-01-07 00:24:07.083
+!MESSAGE Widget disposed too early for part com.kuka.roboticsAPI.eclipseBase.dataView.DataView
+!STACK 0
+java.lang.RuntimeException: Widget disposed too early for part com.kuka.roboticsAPI.eclipseBase.dataView.DataView
+	at org.eclipse.ui.internal.WorkbenchPartReference$1.widgetDisposed(WorkbenchPartReference.java:171)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:808)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:167)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:773)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1290)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:446)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3804)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3285)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4985)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:334)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:170)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4339)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3298)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4972)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1386)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2022-01-07 00:24:07.083
+!MESSAGE Widget disposed too early for part org.eclipse.ui.views.TaskList
+!STACK 0
+java.lang.RuntimeException: Widget disposed too early for part org.eclipse.ui.views.TaskList
+	at org.eclipse.ui.internal.WorkbenchPartReference$1.widgetDisposed(WorkbenchPartReference.java:171)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:808)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:167)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:773)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1290)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:446)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3804)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3285)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4985)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:334)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:170)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4339)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3298)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4972)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1386)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2022-01-07 00:24:07.083
+!MESSAGE Widget disposed too early for part org.eclipse.jdt.ui.PackageExplorer
+!STACK 0
+java.lang.RuntimeException: Widget disposed too early for part org.eclipse.jdt.ui.PackageExplorer
+	at org.eclipse.ui.internal.WorkbenchPartReference$1.widgetDisposed(WorkbenchPartReference.java:171)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:808)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:873)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:167)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:773)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1290)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:811)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:446)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3804)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3285)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4985)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:334)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:170)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4339)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3298)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2526)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4623)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1610)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2061)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4972)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3114)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3749)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1386)
+!SESSION 2022-01-07 13:30:25.866 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_cs" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_da" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_el" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_en" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_es" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_fi" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_fr" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_hu" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_it" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ja" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ko" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_nl" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_pl" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.243
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_pt" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ro" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_ru" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_sk" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_sl" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_sv" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_tr" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.eclipse.ui.nl_zh" are ignored. The host bundle "com.kuka.common.eclipse.ui" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_cs" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_da" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_el" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_en" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_es" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_fi" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_fr" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_hu" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_it" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ja" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ko" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_nl" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_pl" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_pt" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ro" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_ru" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.258
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_sk" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_sl" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_sv" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_tr" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.nl_zh" are ignored. The host bundle "com.kuka.common" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_cs" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_da" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_el" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_en" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_es" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_fi" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_fr" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_hu" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_it" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ja" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ko" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_nl" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_pl" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_pt" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ro" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_ru" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_sk" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_sl" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_sv" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_tr" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.272
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.common.utilities.nl_zh" are ignored. The host bundle "com.kuka.common.utilities" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.288
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_cs" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_da" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_el" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_en" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_es" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_fi" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_fr" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_hu" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_it" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ja" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ko" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_nl" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_pl" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_pt" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ro" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_ru" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_sk" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_sl" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_sv" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_tr" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.305
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.install.nl_zh" are ignored. The host bundle "com.kuka.configuration.install" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.320
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_cs" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.320
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_da" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.320
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_el" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.320
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_en" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.333
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_es" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.333
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_fi" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_fr" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_hu" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_it" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ja" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ko" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_nl" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_pl" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_pt" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ro" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_ru" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_sk" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_sl" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_sv" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_tr" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.335
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.configuration.nl_zh" are ignored. The host bundle "com.kuka.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_cs" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_da" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_el" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_en" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_es" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_fi" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_fr" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_hu" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_it" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ja" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ko" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_nl" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_pl" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_pt" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ro" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_ru" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_sk" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_sl" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_sv" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_tr" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.460
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.actions.nl_zh" are ignored. The host bundle "com.kuka.safety.configuration.actions" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.477
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_cs" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.477
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_da" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_el" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_en" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_es" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_fi" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_fr" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_hu" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_it" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ja" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ko" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_nl" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_pl" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_pt" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ro" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_ru" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_sk" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_sl" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_sv" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_tr" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2022-01-07 13:30:28.491
+!MESSAGE The extensions and extension-points from the bundle "com.kuka.safety.configuration.nl_zh" are ignored. The host bundle "com.kuka.safety.configuration" is not marked as singleton. 
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: DeleteTemplateHandler_ConfirmationTitleRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: DeleteHandler_DeleteFrameWithChildsDialogMessageRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionTitle in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionMessage in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: Rapi2CreateFrameHandler_OnlyOneFrameAllowed in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi1 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:30:36.726
+!MESSAGE NLS unused message: MassPropertySection_validationError_outOfRange in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.952
+!MESSAGE NLS unused message: DisplayName_MAIN_AXIS in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.953
+!MESSAGE NLS unused message: DisplayName_SafetyBasic in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.953
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupImportFilePath in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.953
+!MESSAGE NLS unused message: DisplayName_BackupManager.PasswordForFileServer in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.953
+!MESSAGE NLS unused message: DisplayName_BackupManager.UsernameForFileServer in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.953
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupNetworkPath in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.954
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupDestinationType in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.954
+!MESSAGE NLS unused message: DisplayName_local in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.954
+!MESSAGE NLS unused message: DisplayName_network in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.954
+!MESSAGE NLS unused message: DisplayName_active in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.954
+!MESSAGE NLS unused message: DisplayName_inactive in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.955
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupInterval in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.955
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupTime in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.955
+!MESSAGE NLS unused message: DisplayName_BackupManager.AutomaticBackupActivated in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.956
+!MESSAGE NLS unused message: DisplayName_BackupManager.MaxNumberOfBackups in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.956
+!MESSAGE NLS unused message: DisplayName_KLI_IP_Range in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.956
+!MESSAGE NLS unused message: DisplayName_HandGuidingFeature in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.956
+!MESSAGE NLS unused message: DisplayName_HandguidingAutomaticMode in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.956
+!MESSAGE NLS unused message: DisplayName_HandguidingTestMode in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.957
+!MESSAGE NLS unused message: DisplayName_PROFIsafeAddress in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.957
+!MESSAGE NLS unused message: DisplayName_FSoESlaveAddress in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.957
+!MESSAGE NLS unused message: Description_KLI_IP_Range in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.957
+!MESSAGE NLS unused message: DisplayName_Other in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.957
+!MESSAGE NLS unused message: DisplayName_IoHandling in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.958
+!MESSAGE NLS unused message: DisplayName_DenyAccessInEmergencyStop in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.958
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_InstallationFilesFolderNotExisingOrFile in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.958
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_InstallationScriptNotExisingOrDirectory in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.958
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_UnInstallationScriptNotExisingOrDirectory in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.959
+!MESSAGE NLS unused message: InstPermMgr_InstallerPreviewMessage in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.959
+!MESSAGE NLS unused message: DisplayName_ApplicationHost in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.960
+!MESSAGE NLS unused message: DisplayName_ApplicationDebugging in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.960
+!MESSAGE NLS missing message: InstPermMgr_TimeoutDialog_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.960
+!MESSAGE NLS missing message: InstPermMgr_InstAlreadyRunning_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.960
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.961
+!MESSAGE NLS missing message: InstPermMgr_InsufficientRights_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.961
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_ReasonDenied in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:34:29.961
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_ReasonTimeout in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+!SESSION 2022-01-07 11:24:16.199 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: DeleteTemplateHandler_ConfirmationTitleRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: DeleteHandler_DeleteFrameWithChildsDialogMessageRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionTitle in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionMessage in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: Rapi2CreateFrameHandler_OnlyOneFrameAllowed in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi1 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:20.515
+!MESSAGE NLS unused message: MassPropertySection_validationError_outOfRange in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_MAIN_AXIS in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_SafetyBasic in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupImportFilePath in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.PasswordForFileServer in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.UsernameForFileServer in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupNetworkPath in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupDestinationType in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_local in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_network in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_active in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_inactive in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupInterval in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupTime in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.077
+!MESSAGE NLS unused message: DisplayName_BackupManager.AutomaticBackupActivated in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_BackupManager.MaxNumberOfBackups in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_KLI_IP_Range in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_HandGuidingFeature in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_HandguidingAutomaticMode in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_HandguidingTestMode in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_PROFIsafeAddress in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_FSoESlaveAddress in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: Description_KLI_IP_Range in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_Other in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_IoHandling in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_DenyAccessInEmergencyStop in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_InstallationFilesFolderNotExisingOrFile in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_InstallationScriptNotExisingOrDirectory in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_UnInstallationScriptNotExisingOrDirectory in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: InstPermMgr_InstallerPreviewMessage in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_ApplicationHost in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS unused message: DisplayName_ApplicationDebugging in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS missing message: InstPermMgr_TimeoutDialog_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS missing message: InstPermMgr_InstAlreadyRunning_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS missing message: InstPermMgr_InsufficientRights_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_ReasonDenied in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:24:22.092
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_ReasonTimeout in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+!SESSION 2022-01-07 11:36:10.407 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.021
+!MESSAGE NLS unused message: DeleteTemplateHandler_ConfirmationTitleRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.021
+!MESSAGE NLS unused message: DeleteHandler_DeleteFrameWithChildsDialogMessageRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.021
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionTitle in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.021
+!MESSAGE NLS unused message: Rapi2DeleteHandler_ConfirmCategoryDeletionMessage in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.021
+!MESSAGE NLS unused message: Rapi2CreateFrameHandler_OnlyOneFrameAllowed in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.021
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi1 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.021
+!MESSAGE NLS unused message: ScenegraphView_SelectRapi2 in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:36:16.040
+!MESSAGE NLS unused message: MassPropertySection_validationError_outOfRange in: com.kuka.roboticsAPI.eclipseBase.ResourceStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:47:37.600
+!MESSAGE NLS unused message: FrameSafetyPropertySection_outOfRange in: com.kuka.safety.configuration.SafetyConfiguration
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:47:37.600
+!MESSAGE NLS unused message: WorkpieceSafetyPropertySection_description in: com.kuka.safety.configuration.SafetyConfiguration
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:47:37.600
+!MESSAGE NLS unused message: FrameSafetyPropertySection_description in: com.kuka.safety.configuration.SafetyConfiguration
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 11:47:37.600
+!MESSAGE NLS unused message: WorkpieceSafetyPropertySection_inertiaInvalid in: com.kuka.safety.configuration.SafetyConfiguration
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:07:15.656
+!MESSAGE NLS unused message: DeployProjectHandler_UnknownException in: com.kuka.roboticsAPI.industrial.targetManagement.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.707
+!MESSAGE NLS unused message: DisplayName_MAIN_AXIS in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.708
+!MESSAGE NLS unused message: DisplayName_SafetyBasic in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.708
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupImportFilePath in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.708
+!MESSAGE NLS unused message: DisplayName_BackupManager.PasswordForFileServer in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.708
+!MESSAGE NLS unused message: DisplayName_BackupManager.UsernameForFileServer in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.709
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupNetworkPath in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.709
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupDestinationType in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.709
+!MESSAGE NLS unused message: DisplayName_local in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.710
+!MESSAGE NLS unused message: DisplayName_network in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.710
+!MESSAGE NLS unused message: DisplayName_active in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.710
+!MESSAGE NLS unused message: DisplayName_inactive in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.710
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupInterval in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.710
+!MESSAGE NLS unused message: DisplayName_BackupManager.BackupTime in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.710
+!MESSAGE NLS unused message: DisplayName_BackupManager.AutomaticBackupActivated in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.711
+!MESSAGE NLS unused message: DisplayName_BackupManager.MaxNumberOfBackups in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.711
+!MESSAGE NLS unused message: DisplayName_KLI_IP_Range in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.711
+!MESSAGE NLS unused message: DisplayName_HandGuidingFeature in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.711
+!MESSAGE NLS unused message: DisplayName_HandguidingAutomaticMode in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.711
+!MESSAGE NLS unused message: DisplayName_HandguidingTestMode in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.712
+!MESSAGE NLS unused message: DisplayName_PROFIsafeAddress in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.712
+!MESSAGE NLS unused message: DisplayName_FSoESlaveAddress in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.712
+!MESSAGE NLS unused message: Description_KLI_IP_Range in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.712
+!MESSAGE NLS unused message: DisplayName_Other in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.712
+!MESSAGE NLS unused message: DisplayName_IoHandling in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.712
+!MESSAGE NLS unused message: DisplayName_DenyAccessInEmergencyStop in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.713
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_InstallationFilesFolderNotExisingOrFile in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.713
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_InstallationScriptNotExisingOrDirectory in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.713
+!MESSAGE NLS unused message: InstallProgramOnControllerAction_UnInstallationScriptNotExisingOrDirectory in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.713
+!MESSAGE NLS unused message: InstPermMgr_InstallerPreviewMessage in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.714
+!MESSAGE NLS unused message: DisplayName_ApplicationHost in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.714
+!MESSAGE NLS unused message: DisplayName_ApplicationDebugging in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.714
+!MESSAGE NLS missing message: InstPermMgr_TimeoutDialog_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.714
+!MESSAGE NLS missing message: InstPermMgr_InstAlreadyRunning_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.715
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.715
+!MESSAGE NLS missing message: InstPermMgr_InsufficientRights_Title in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.715
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_ReasonDenied in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 12:13:55.715
+!MESSAGE NLS missing message: InstPermMgr_InstDeniedDialog_ReasonTimeout in: com.kuka.configuration.eclipsePlugin.ConfigurationPlugin
+
+!ENTRY com.kuka.common.eclipse 4 0 2022-01-07 13:08:44.702
+!MESSAGE Deployment cancelled by user.
+
+!ENTRY com.kuka.configuration 2 0 2022-01-07 13:23:29.145
+!MESSAGE Installation aborted by user.
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:24:11.634
+!MESSAGE NLS missing message: CheckRolesCredentialsBuilder_TaskName in: com.kuka.authorization.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:24:11.635
+!MESSAGE NLS missing message: CheckRolesCredentialsBuilder_MissingFilesError in: com.kuka.authorization.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:24:11.635
+!MESSAGE NLS missing message: CheckRolesCredentialsBuilder_MissingCredentialError in: com.kuka.authorization.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:24:11.635
+!MESSAGE NLS missing message: CheckRolesCredentialsBuilder_MissingCredentialLocation in: com.kuka.authorization.messages
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:24:11.643
+!MESSAGE NLS unused message: User in: com.kuka.authorization.roleStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:24:11.644
+!MESSAGE NLS unused message: Expert in: com.kuka.authorization.roleStrings
+
+!ENTRY org.eclipse.osgi 2 1 2022-01-07 13:24:11.644
+!MESSAGE NLS unused message: SafetyMaintenanceTechnician in: com.kuka.authorization.roleStrings
+
+!ENTRY org.eclipse.search 4 0 2022-01-07 13:46:08.423
+!MESSAGE Problems encountered during text search.
+!SUBENTRY 1 org.eclipse.search 4 4 2022-01-07 13:46:08.423
+!MESSAGE File 'RightArm/.git/refs/heads/master' has been skipped, problem while reading: ('Resource is out of sync with the file system: '/RightArm/.git/refs/heads/master'.').
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/RightArm/.git/refs/heads/master'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider$FileCharSequence.getInputStream(FileCharSequenceProvider.java:283)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider$FileCharSequence.initializeReader(FileCharSequenceProvider.java:277)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider$FileCharSequence.reset(FileCharSequenceProvider.java:269)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider.newCharSequence(FileCharSequenceProvider.java:40)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.processFile(TextSearchVisitor.java:260)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.processFiles(TextSearchVisitor.java:196)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.search(TextSearchVisitor.java:172)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.search(TextSearchVisitor.java:184)
+	at org.eclipse.search.core.text.TextSearchEngine$1.search(TextSearchEngine.java:54)
+	at org.eclipse.search.internal.ui.text.FileSearchQuery.run(FileSearchQuery.java:182)
+	at org.eclipse.search2.internal.ui.InternalSearchUI$InternalSearchJob.run(InternalSearchUI.java:91)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 2 org.eclipse.core.resources 4 274 2022-01-07 13:46:08.423
+!MESSAGE Resource is out of sync with the file system: '/RightArm/.git/refs/heads/master'.
+!SUBENTRY 1 org.eclipse.search 4 4 2022-01-07 13:46:08.423
+!MESSAGE File 'RightArm/.git/index' has been skipped, problem while reading: ('Resource is out of sync with the file system: '/RightArm/.git/index'.').
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/RightArm/.git/index'.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:793)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:289)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:278)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider$FileCharSequence.getInputStream(FileCharSequenceProvider.java:283)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider$FileCharSequence.initializeReader(FileCharSequenceProvider.java:277)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider$FileCharSequence.reset(FileCharSequenceProvider.java:269)
+	at org.eclipse.search.internal.core.text.FileCharSequenceProvider.newCharSequence(FileCharSequenceProvider.java:40)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.processFile(TextSearchVisitor.java:260)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.processFiles(TextSearchVisitor.java:196)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.search(TextSearchVisitor.java:172)
+	at org.eclipse.search.internal.core.text.TextSearchVisitor.search(TextSearchVisitor.java:184)
+	at org.eclipse.search.core.text.TextSearchEngine$1.search(TextSearchEngine.java:54)
+	at org.eclipse.search.internal.ui.text.FileSearchQuery.run(FileSearchQuery.java:182)
+	at org.eclipse.search2.internal.ui.InternalSearchUI$InternalSearchJob.run(InternalSearchUI.java:91)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 2 org.eclipse.core.resources 4 274 2022-01-07 13:46:08.423
+!MESSAGE Resource is out of sync with the file system: '/RightArm/.git/index'.
