@@ -1,0 +1,6 @@
+[submodule "RightArm"]
+	path = RightArm
+	url = git@github.com:h2r/RightArm
+[submodule "LeftArm"]
+	path = LeftArm
+	url = git@github.com:h2r/LeftArm
