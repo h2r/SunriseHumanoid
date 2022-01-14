@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="7" version="2.0">
+<workbench progressCount="24" version="2.0">
 <workbenchAdvisor/>
 <window height="788" maximized="true" width="1044" x="-319" y="-26">
 <fastViewData fastViewLocation="1024"/>
@@ -32,26 +32,28 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
+<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
+<editor activePart="true" focus="true" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" name="SafetyConfiguration.sconf" partName="SafetyConfiguration.sconf" path="C:/Users/rsthomp/SunriseWorkspace/LeftArm/SafetyConfiguration.sconf" title="SafetyConfiguration.sconf" tooltip="C:\Users\rsthomp\SunriseWorkspace\LeftArm\SafetyConfiguration.sconf - Version 7.50" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LeftArm/SafetyConfiguration.sconf"/>
+</editor>
+<editor id="configurationModel.eclipsePlugin.ConfigurationEditor" name="StationSetup.cat" partName="StationSetup.cat" title="StationSetup.cat" tooltip="LeftArm/StationSetup.cat" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LeftArm/StationSetup.cat"/>
+</editor>
 <editor id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" name="SafetyConfiguration.sconf" partName="SafetyConfiguration.sconf" path="C:/Users/rsthomp/SunriseWorkspace/RightArm/SafetyConfiguration.sconf" title="SafetyConfiguration.sconf" tooltip="C:\Users\rsthomp\SunriseWorkspace\RightArm\SafetyConfiguration.sconf - Version 7.50" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RightArm/SafetyConfiguration.sconf"/>
 </editor>
-<editor activePart="true" focus="true" id="configurationModel.eclipsePlugin.ConfigurationEditor" name="StationSetup.cat" partName="StationSetup.cat" title="StationSetup.cat" tooltip="RightArm/StationSetup.cat" workbook="DefaultEditorWorkbook">
+<editor id="configurationModel.eclipsePlugin.ConfigurationEditor" name="StationSetup.cat" partName="StationSetup.cat" title="StationSetup.cat" tooltip="RightArm/StationSetup.cat" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RightArm/StationSetup.cat"/>
 </editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
 <viewState/>
-</view>
-<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
-<viewState isPinned="false">
-<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
-<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
-</viewState>
 </view>
 <view id="com.kuka.roboticsAPI.eclipseBase.templateView.TemplateView" partName="Object templates"/>
 <view id="com.kuka.roboticsAPI.eclipseBase.dataView.DataView" partName="Application data">
@@ -103,7 +105,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="com.kuka.common.eclipsePlugin.ProgrammingPerspective">
+<perspectives activePart="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" activePerspective="com.kuka.common.eclipsePlugin.ProgrammingPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.kuka.common.eclipsePlugin.ProgrammingPerspectiveFactory" id="com.kuka.common.eclipsePlugin.ProgrammingPerspective" label="Programming"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -314,7 +316,6 @@
 <view id="org.eclipse.ui.views.PropertySheet"/>
 <view id="com.kuka.roboticsAPI.eclipseBase.dataView.DataView"/>
 <view id="com.kuka.roboticsAPI.eclipseBase.templateView.TemplateView"/>
-<view id="org.eclipse.search.ui.views.SearchView"/>
 <fastViewBars/>
 <layout>
 <mainWindow>
@@ -337,14 +338,13 @@
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@e6da7b" ratio="0.8953603" ratioLeft="907" ratioRight="106" relationship="2" relative="topLeft">
-<folder activePageID="org.eclipse.search.ui.views.SearchView" appearance="2" expanded="2">
+<folder activePageID="com.kuka.roboticsAPI.eclipseBase.dataView.DataView" appearance="2" expanded="2">
 <page content="com.kuka.roboticsAPI.eclipseBase.dataView.DataView" label="Application data"/>
 <page content="com.kuka.roboticsAPI.eclipseBase.templateView.TemplateView" label="Object templates"/>
-<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
-<part id="2"/>
 </presentation>
 </folder>
 </info>
@@ -355,8 +355,8 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.45848376" ratioLeft="381" ratioRight="450" relationship="2" relative="topLeft"/>
-<info folder="true" part="bottomRight" ratio="0.65876776" ratioLeft="417" ratioRight="216" relationship="4" relative="org.eclipse.ui.editorss">
+<info part="org.eclipse.ui.editorss" ratio="0.121681415" ratioLeft="110" ratioRight="794" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.9531502" ratioLeft="590" ratioRight="29" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
@@ -383,13 +383,7 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" uri="file:/C:/Users/rsthomp/SunriseWorkspace/LeftArm/ROSJavaLib"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LeftArm/src/test/RobotApplication.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/LeftArm/src/RoboticsAPI.data.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" path="/LeftArm/SafetyConfiguration.sconf"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LeftArm/src/de/tum/in/camp/kuka/ros/Configuration.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" path="/LeftArm/StationSetup.cat"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/LeftArm/IOConfiguration.wvs"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" path="/RightArm/StationSetup.cat"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/RightArm/src/RoboticsAPI.data.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" path="/RightArm/SafetyConfiguration.sconf"/>
@@ -399,117 +393,102 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/RightArm/src/de/tum/in/camp/kuka/ros/Logger.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/RightArm/src/de/tum/in/camp/kuka/ros/Utility.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/RightArm/src/RoboticsAPI.config.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" path="/LeftArm/SafetyConfiguration.sconf"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/LeftArm/src/RoboticsAPI.config.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/LeftArm/src/RoboticsAPI.data.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/RightArm/src/RoboticsAPI.data.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" path="/LeftArm/StationSetup.cat"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" path="/LeftArm/StationSetup.cat"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" path="/LeftArm/SafetyConfiguration.sconf"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" path="/RightArm/SafetyConfiguration.sconf"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" path="/RightArm/StationSetup.cat"/>
 </editors>
-<item historyLabel="ROSJavaLib" index="0">
-<position info="not_deleted" x="2443" y="0"/>
+<item historyLabel="Logger.java" index="7">
+<position info="not_deleted" x="5" y="0"/>
 </item>
-<item historyLabel="RobotApplication.java" index="1">
-<position info="not_deleted" x="15" y="0"/>
+<item historyLabel="Utility.java" index="8">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="RoboticsAPI.config.xml" index="9">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="RoboticsAPI.data.xml" index="2">
 <position/>
+</item>
+<item historyLabel="StationSetup.cat" index="1"/>
+<item historyLabel="RoboticsAPI.data.xml" index="2">
+<position/>
+</item>
+<item historyLabel="RoboticsAPI.config.xml" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="RoboticsAPI.data.xml" index="2">
+<position info="not_deleted" x="1186" y="0"/>
+</item>
+<item historyLabel="RoboticsAPI.data.xml" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="RoboticsAPI.data.xml" index="2">
+<position info="not_deleted" x="1186" y="0"/>
+</item>
+<item historyLabel="StationSetup.cat" index="1"/>
+<item historyLabel="RoboticsAPI.config.xml" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Utility.java" index="8">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="Logger.java" index="7">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="AddressGenerator.java" index="6">
+<position info="not_deleted" x="5" y="0"/>
+</item>
+<item historyLabel="Configuration.java" index="4">
+<position info="not_deleted" x="4263" y="2"/>
+</item>
+<item historyLabel="IOConfiguration.wvs" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="SafetyConfiguration.sconf" index="3"/>
-<item historyLabel="RoboticsAPI.data.xml" index="2">
-<position/>
-</item>
-<item historyLabel="RobotApplication.java" index="1">
-<position info="not_deleted" x="15" y="0"/>
-</item>
-<item historyLabel="Configuration.java" index="4">
-<position info="not_deleted" x="2738" y="20"/>
-</item>
-<item historyLabel="StationSetup.cat" index="5"/>
-<item historyLabel="Configuration.java" index="4">
-<position info="not_deleted" x="2738" y="20"/>
-</item>
-<item historyLabel="IOConfiguration.wvs" index="6">
+<item historyLabel="StationSetup.cat" index="1"/>
+<item historyLabel="SafetyConfiguration.sconf" index="10"/>
+<item historyLabel="RoboticsAPI.config.xml" index="11">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Configuration.java" index="4">
-<position info="not_deleted" x="2738" y="20"/>
-</item>
-<item historyLabel="StationSetup.cat" index="7"/>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position/>
-</item>
-<item historyLabel="SafetyConfiguration.sconf" index="9"/>
-<item historyLabel="Configuration.java" index="10">
-<position info="not_deleted" x="9621" y="0"/>
-</item>
-<item historyLabel="StationSetup.cat" index="7"/>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position info="not_deleted" x="1164" y="0"/>
-</item>
-<item historyLabel="Configuration.java" index="10">
-<position info="not_deleted" x="9621" y="0"/>
-</item>
-<item historyLabel="StationSetup.cat" index="7"/>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position info="not_deleted" x="1164" y="0"/>
-</item>
-<item historyLabel="IOConfiguration.wvs" index="11">
+<item historyLabel="RoboticsAPI.data.xml" index="12">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="StationSetup.cat" index="7"/>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position info="not_deleted" x="1164" y="0"/>
-</item>
-<item historyLabel="Configuration.java" index="10">
-<position info="not_deleted" x="4263" y="2"/>
-</item>
-<item historyLabel="AddressGenerator.java" index="12">
-<position info="not_deleted" x="5" y="0"/>
-</item>
-<item historyLabel="Logger.java" index="13">
-<position info="not_deleted" x="5" y="0"/>
-</item>
-<item historyLabel="Utility.java" index="14">
-<position info="not_deleted" x="5" y="0"/>
-</item>
-<item historyLabel="RoboticsAPI.config.xml" index="15">
+<item historyLabel="RoboticsAPI.data.xml" index="13">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position/>
-</item>
-<item historyLabel="StationSetup.cat" index="7"/>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position/>
-</item>
-<item historyLabel="RoboticsAPI.config.xml" index="15">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position info="not_deleted" x="1186" y="0"/>
-</item>
-<item historyLabel="RoboticsAPI.data.xml" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="RoboticsAPI.data.xml" index="8">
-<position info="not_deleted" x="1186" y="0"/>
-</item>
-<item historyLabel="StationSetup.cat" index="7"/>
-<item historyLabel="RoboticsAPI.config.xml" index="15">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Utility.java" index="14">
-<position info="not_deleted" x="5" y="0"/>
-</item>
-<item historyLabel="Logger.java" index="13">
-<position info="not_deleted" x="5" y="0"/>
-</item>
-<item historyLabel="AddressGenerator.java" index="12">
-<position info="not_deleted" x="5" y="0"/>
-</item>
-<item historyLabel="Configuration.java" index="10">
-<position info="not_deleted" x="4263" y="2"/>
-</item>
-<item historyLabel="IOConfiguration.wvs" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="SafetyConfiguration.sconf" index="9"/>
-<item active="true" historyLabel="StationSetup.cat" index="7"/>
+<item historyLabel="SafetyConfiguration.sconf" index="10"/>
+<item historyLabel="StationSetup.cat" index="14"/>
+<item historyLabel="SafetyConfiguration.sconf" index="10"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="10"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="10"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="10"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="10"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="16"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="16"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="16"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="16"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="17"/>
+<item historyLabel="StationSetup.cat" index="18"/>
+<item historyLabel="SafetyConfiguration.sconf" index="16"/>
+<item historyLabel="StationSetup.cat" index="15"/>
+<item historyLabel="SafetyConfiguration.sconf" index="17"/>
+<item historyLabel="StationSetup.cat" index="18"/>
+<item active="true" historyLabel="SafetyConfiguration.sconf" index="16"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -530,8 +509,23 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" name="StationSetup.cat" tooltip="RightArm/StationSetup.cat">
 <persistable path="/RightArm/StationSetup.cat"/>
 </file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" name="SafetyConfiguration.sconf" tooltip="RightArm/SafetyConfiguration.sconf">
+<persistable path="/RightArm/SafetyConfiguration.sconf"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" name="StationSetup.cat" tooltip="LeftArm/StationSetup.cat">
+<persistable path="/LeftArm/StationSetup.cat"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" name="SafetyConfiguration.sconf" tooltip="LeftArm/SafetyConfiguration.sconf">
+<persistable path="/LeftArm/SafetyConfiguration.sconf"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="RoboticsAPI.data.xml" tooltip="RightArm/src/RoboticsAPI.data.xml">
+<persistable path="/RightArm/src/RoboticsAPI.data.xml"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="RoboticsAPI.data.xml" tooltip="LeftArm/src/RoboticsAPI.data.xml">
 <persistable path="/LeftArm/src/RoboticsAPI.data.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="RoboticsAPI.config.xml" tooltip="LeftArm/src/RoboticsAPI.config.xml">
+<persistable path="/LeftArm/src/RoboticsAPI.config.xml"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="RoboticsAPI.config.xml" tooltip="RightArm/src/RoboticsAPI.config.xml">
 <persistable path="/RightArm/src/RoboticsAPI.config.xml"/>
@@ -551,26 +545,11 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Configuration.java" tooltip="RightArm/src/de/tum/in/camp/kuka/ros/Configuration.java">
 <persistable path="/RightArm/src/de/tum/in/camp/kuka/ros/Configuration.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" name="SafetyConfiguration.sconf" tooltip="RightArm/SafetyConfiguration.sconf">
-<persistable path="/RightArm/SafetyConfiguration.sconf"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="RoboticsAPI.data.xml" tooltip="RightArm/src/RoboticsAPI.data.xml">
-<persistable path="/RightArm/src/RoboticsAPI.data.xml"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="IOConfiguration.wvs" tooltip="LeftArm/IOConfiguration.wvs">
 <persistable path="/LeftArm/IOConfiguration.wvs"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="configurationModel.eclipsePlugin.ConfigurationEditor" name="StationSetup.cat" tooltip="LeftArm/StationSetup.cat">
-<persistable path="/LeftArm/StationSetup.cat"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Configuration.java" tooltip="LeftArm/src/de/tum/in/camp/kuka/ros/Configuration.java">
 <persistable path="/LeftArm/src/de/tum/in/camp/kuka/ros/Configuration.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.kuka.safety.configuration.eclipseplugin.editors.MultiPageEditor" name="SafetyConfiguration.sconf" tooltip="LeftArm/SafetyConfiguration.sconf">
-<persistable path="/LeftArm/SafetyConfiguration.sconf"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ROSJavaLib" tooltip="C:\Users\rsthomp\SunriseWorkspace\LeftArm\ROSJavaLib">
-<persistable uri="file:/C:/Users/rsthomp/SunriseWorkspace/LeftArm/ROSJavaLib"/>
 </file>
 </mruList>
 </workbench>
